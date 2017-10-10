@@ -5,7 +5,6 @@ public class FindingTheSums {
       Scanner input = new Scanner(System.in);
       int userNumFirst = 0;
       int userNumSecond = 0;
-      int totalSum = 0;
       boolean endResult = true;
       int hundredsFirst = 0;
       int tensFirst = 0;
