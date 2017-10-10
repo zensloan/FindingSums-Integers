@@ -60,19 +60,7 @@ public class FindingTheSums {
       }
       
 	   
-	   
-    
-	   
-     
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
+	 
 	   
 	   
    }
